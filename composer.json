@@ -2,6 +2,7 @@
     "name": "settler/devicedetect-plugin",
     "type": "october-plugin",
     "description": "Device detection plugin for October CMS. It detects device type: desktop, mobile or tablet.",
+    "version": "1.0.1",
     "require": {
         "composer/installers": "~1.0",
         "mobiledetect/mobiledetectlib": "^4.8"
